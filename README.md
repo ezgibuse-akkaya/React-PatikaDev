@@ -78,5 +78,5 @@ resolve(data);
 }
 const userInfo = await GetUserByIdWithPosts(1);
 console.log(userInfo);
-    ```
+ ```
 </details>
