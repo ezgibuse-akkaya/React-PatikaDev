@@ -58,8 +58,8 @@ Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
 
 <details>
 <summary>Kodu görmek için tıklayınız.</summary>
- ```javascript
-	
+
+  ```javascript	
 import axios from "axios";
 const USER_API_URL = 'https://jsonplaceholder.typicode.com/users';
 const USER_POSTS_API_URL = 'https://jsonplaceholder.typicode.com/posts?userId=';
@@ -78,5 +78,5 @@ resolve(data);
 }
 const userInfo = await GetUserByIdWithPosts(1);
 console.log(userInfo);
- ```
-</details>
+    ```
+ </details>
