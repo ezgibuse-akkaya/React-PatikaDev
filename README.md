@@ -59,6 +59,7 @@ Bir alt satırda bu fonksiyonu çalıştırın ve gelen sonucu log'layın.
 <details>
 <summary>Kodu görmek için tıklayınız.</summary>
 ```javascript
+	
 import axios from "axios";
 
 const USER_API_URL = 'https://jsonplaceholder.typicode.com/users';
