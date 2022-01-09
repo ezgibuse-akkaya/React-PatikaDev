@@ -80,3 +80,14 @@ const userInfo = await GetUserByIdWithPosts(1);
 console.log(userInfo);
  ```
 </details>
+	
+## :brain: Ödev 2
+
+### :question: SORU 
+Aşağıda çalışır hali paylaşılan çalışmayı bir React uygulaması olarak çalışır hale getirmek.
+
+[Çalışmanın orijinal hali](https://codepen.io/dmitrysharabin/pen/MWgQNYZ)
+
+Yukarıda paylaşılan ikinci bağlantıda orijinal çalışmada bulunan ancak sizin işinize yaramayacak olan tanımlar kaldırıldı. O bağlantıdaki HTML ve CSS tanımlarını kullanarak geliştirmeye başlayabilirsiniz.
+
+Dosya dizin isimlendirmesini dilediğiniz gibi yapabilirsiniz.
