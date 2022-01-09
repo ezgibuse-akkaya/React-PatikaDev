@@ -95,6 +95,7 @@ Dosya dizin isimlendirmesini dilediğiniz gibi yapabilirsiniz.
 
 <details>
 <summary>Kodu görmek için tıklayınız.</summary>
+	
 Footer.js
 ```javascript
 import React from "react";
@@ -134,6 +135,7 @@ const Footer = ({
 
 export default Footer;
 ```
+	
 Header.js
 ```javascript
 import React, { useState } from "react";
