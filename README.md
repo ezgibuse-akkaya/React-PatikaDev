@@ -740,4 +740,4 @@ function App() {
 
 export default App;
 ```
-<details/>
+</details>
